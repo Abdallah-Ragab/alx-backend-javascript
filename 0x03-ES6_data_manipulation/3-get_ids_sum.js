@@ -5,7 +5,7 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of students.
- * 
+ *
  * @returns {Number}
  */
 export default function getStudentIdsSum(students) {
